@@ -1,0 +1,27 @@
+html,body{
+    margin: 0px;
+    background-color: #2F4F30;
+    color: white;
+}
+
+.carta{
+    position: relative;
+    left: 100px;
+    margin-left: -75px;
+    width: 150px;
+}
+
+#computadora-cartas,
+#jugador-cartas{
+    height: 240px;
+}
+
+.titulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: black;
+    font-size: 2rem;
+    color: white;
+    padding: 20px;
+}
+
